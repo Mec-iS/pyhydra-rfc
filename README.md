@@ -1,4 +1,6 @@
 # pyhydra-rfc
+
+[![Join the chat at https://gitter.im/Mec-iS/pyhydra-rfc](https://badges.gitter.im/Mec-iS/pyhydra-rfc.svg)](https://gitter.im/Mec-iS/pyhydra-rfc?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 A notepad-wiki for Pyhon Hydra
 
 This is the starting point for a Hydra Python client
