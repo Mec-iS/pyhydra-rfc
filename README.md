@@ -24,6 +24,6 @@ List anything useful about LD standards here, for longer annotations there is th
 
 - Check some JS implementation examples:
     - <https://github.com/bergos/hydra-middleware>
-    - >https://github.com/simplerdf/simplerdf>
+    - <https://github.com/simplerdf/simplerdf>
     - <https://github.com/bergos/hydra-fetch>
 - [add some resources about databases middlewares servers here]
