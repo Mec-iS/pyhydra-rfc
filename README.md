@@ -15,7 +15,8 @@ List anything useful about LD standards here, for longer annotations there is th
 List anything useful about LD standards here, for longer annotations there is the [dedicated notepad](https://github.com/Mec-iS/pyhydra-rfc/blob/master/python-notepad.md)
 
 - A library for Hydra-enabled clients <https://github.com/pchampin/hydra-py>
-- Actor Model (distributed computing) for Python <http://godaddy.github.io/Thespian/doc/>
+- Actor Model (distributed computing) <http://engineering.godaddy.com/why-godaddy-built-an-actor-system-library/>
+- An Actor Model implementation for Python <http://godaddy.github.io/Thespian/doc/>
 - Python async with coroutines <https://www.python.org/dev/peps/pep-0492/>
 - [add some resources here]
 
