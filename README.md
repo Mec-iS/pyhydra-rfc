@@ -9,6 +9,8 @@ This is the starting point for a Hydra Python client
 
 ## Python-related resources
 - A library for Hydra-enabled clients <https://github.com/pchampin/hydra-py>
+- Actor Model (distributed computing) for Python <http://godaddy.github.io/Thespian/doc/>
+- Python async with coroutines <https://www.python.org/dev/peps/pep-0492/>
 
 ## Hydra stack-related resources
 - Check som JS implementation examples:
