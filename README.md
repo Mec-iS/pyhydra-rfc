@@ -3,7 +3,7 @@ A notepad-wiki for Pyhon Hydra
 
 [![Gitter](https://badges.gitter.im/Mec-iS/pyhydra-rfc.svg)](https://gitter.im/Mec-iS/pyhydra-rfc?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
-This is the starting point for a Hydra Python client
+This is the starting point for a Hydra Python client. This is an effort organized by the [W3C Official Hydra Spec mailing-list](public-hydra@w3.org)
 
 ## Spec-related resources
 List anything useful about LD standards here, for longer annotations there is the [dedicated notepad](https://github.com/Mec-iS/pyhydra-rfc/blob/master/spec-notepad.md)
