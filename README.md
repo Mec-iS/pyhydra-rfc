@@ -22,7 +22,7 @@ List anything useful about LD standards here, for longer annotations there is th
 ## Hydra stack-related resources
 List anything useful about LD standards here, for longer annotations there is the [dedicated notepad](https://github.com/Mec-iS/pyhydra-rfc/blob/master/hydra-stack.md)
 
-- Check som JS implementation examples:
+- Check some JS implementation examples:
     - <https://github.com/bergos/hydra-middleware>
     - >https://github.com/simplerdf/simplerdf>
     - <https://github.com/bergos/hydra-fetch>
