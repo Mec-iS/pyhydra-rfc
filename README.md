@@ -9,7 +9,6 @@ This is the starting point for a Hydra Python client
 
 ## Python-related resources
 - A library for Hydra-enabled clients <https://github.com/pchampin/hydra-py>
-- 
 
 ## Hydra stack-related resources
 - Check som JS implementation examples:
